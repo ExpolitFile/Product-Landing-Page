@@ -1,3 +1,7 @@
+body {
+font-family:Arial, sans-serif;
+}
+
 header {
     display:flex;
     justify-content: space-around;
@@ -16,3 +20,7 @@ padding:20px;
 font-size:25px;
 }
 
+li > a {
+    text-decoration: none;
+    color:black;
+}
