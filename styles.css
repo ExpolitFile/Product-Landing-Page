@@ -32,6 +32,10 @@ button {
     color:red;
 }
 
+.description {
+    display: flex;
+}
+
 .container {
     display:flex;
     justify-content: space-around;
@@ -48,5 +52,10 @@ h2 {
 
 .bottom {
 display:flex;
-justify-content: center;
+justify-content: space-evenly;
+align-items: center;
+
 }
+
+
+
